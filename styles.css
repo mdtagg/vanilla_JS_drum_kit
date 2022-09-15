@@ -32,5 +32,11 @@ kbd {
 
 .sound {
     font-size: 1.2rem;
-    color:#ffc600;
+    color: #ffc600;
+}
+
+.playing {
+    transform:scale(1.1);
+    border-color: #ffc600;
+    box-shadow: 0 0 1rem #ffc600;
 }
